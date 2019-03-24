@@ -5,10 +5,10 @@ HOW IT WORKS:
 
 Put in the username (identification1) and password (weather) to enter the weather page. 
 When you enter the page, there is space to add city/state, start date, end data and the hour. 
-Add Raleigh,NC to the city/state as this application supports this particular city/state.
+Add Raleigh,NC as the city/state as this application supports this one particular city/state.
 Add 2019-03-15 as the start date and 2019-03-16 as the end date as this application supports these 24 hours.
-Regarding the hour, this data is different. Input an hour during the day ( 1 -24 ) to extract that particualr weather information for that hour. 
-Press submit to receive information for that particular hour regarding weather in Raleigh,NC for the 24 hour period between 2019-03-15 - 2019-03-16. 
+Regarding the hour, this data is different and dynamic. Input an hour during the day ( 1 -24 ) to extract that particular weather information for that hour. 
+Press submit to receive information for that particular hour regarding weather in Raleigh,NC for the 24 hour period between 2019-03-15 - 2019-03-16.If you input different hours for this day, the submitted weather information will be different. 
 
 #####################
 The information in the output should be as follows: 
